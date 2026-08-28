@@ -1,0 +1,5 @@
+*.dd
+*.raw
+*.aut
+*.db
+ModuleOutput/
